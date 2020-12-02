@@ -1,16 +1,16 @@
 /* 
 
-Project Name: Cookie Monster 
-Client: Cookie Monster
-Author: Chris Castiglione  
-Developed @ One Month in NYC
+Project Name: Scitts Creek Tourism 
+Client: Schitts Creek Tourism Department
+Author: Priya Gaur 
+Developed @ One Month / Columbia University in NYC
 
 */
 
 html {
 	/* set up a background image */
 	
-	background: url('../images/cookie-monster.jpg') no-repeat;
+	background: url('../images/schittscreek.jpg') no-repeat;
 
 	
 	/* the follow is the code to have the image display as a full page */
@@ -24,7 +24,7 @@ html {
 
 
 h1 {
-	font-size: 60px;
+	font-size: 45px;
 }
 
 h2 {
